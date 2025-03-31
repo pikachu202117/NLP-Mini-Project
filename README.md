@@ -1,4 +1,4 @@
-# Loan Approval Risk Prediction Project
+# Ecommerce Product Classification Project
 
 ## Course: NLP (Semester 6) - Pillai College of Engineering
 
