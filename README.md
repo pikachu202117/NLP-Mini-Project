@@ -50,7 +50,7 @@ In retail and e-commerce, product categorization is an essential operation that 
 ## Comparative Analysis
 The comparative analysis of different models highlights their effectiveness in classifying loan applications. The following table summarizes the accuracy, precision, recall, and F1-score of the models tested:
 
-<img src="image.png" align="center">
+<!--<img src="image.png" align="center">-->
 
 
 | Model Name                 | Precision | Recall | F1 Score | Accuracy |
