@@ -3,7 +3,8 @@
 ## Course: NLP (Semester 6) - Pillai College of Engineering
 
 ### Project Overview
-Loan approval prediction is a crucial aspect of financial decision-making for banks and lending institutions. Automating this process using machine learning techniques helps reduce risks associated with loan defaults while ensuring fair and efficient approval mechanisms. The proposed system leverages historical loan data, applicant financial records, and credit scores to classify loan applications as either approved or denied.
+In retail and e-commerce, product categorization is an essential operation that facilitates effective product arrangement and retrieval. The objective of this project is to use textual data—more especially, product descriptions and the categories that go with them—to create a machine learning-based model for product classification. The dataset contains two columns, namely, description and category. Tokenization, stopword elimination, and lemmatization are steps in the preprocessing pipeline that turn text into structured word arrays, which would be done on a “Description” labelled column. The right category for a particular product will then be predicted  through the best model by machine learning, deep learning or LLM. The suggested method improves product classification accuracy and automation, which benefits user experience and searchability.
+
 
 ## Acknowledgements
 We would like to express our sincere gratitude to the following individuals:
