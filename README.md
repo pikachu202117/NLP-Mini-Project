@@ -48,8 +48,8 @@ Natural Language Processing (NLP) can play a pivotal role in automating loan app
 
 ## Comparative Analysis
 The comparative analysis of different models highlights their effectiveness in classifying loan applications. The following table summarizes the accuracy, precision, recall, and F1-score of the models tested:
-<center>
+<centre>
 <img src="image.png">
-<\center>
+<\centre>
 
 **Learn more about the college:** [Pillai College of Engineering](https://www.pce.ac.in/)
