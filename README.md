@@ -69,5 +69,8 @@ The comparative analysis of different models highlights their effectiveness in c
 | RoBERTa                    | 0.62      | 0.52   | 0.55     | 0.85     |
 
 
+## Conclusion:
+
+This study evaluated the efficacy of various machine learning approaches, encompassing classical algorithms, deep learning architectures, and large language models, for the task of categorizing products from their textual descriptions.  Traditional machine learning methods, including Logistic Regression, SVM, Decision Tree, KNN, and Random Forest, demonstrated exceptional performance, though this consistency might point towards potential overfitting or limitations inherent in the dataset.  Among deep learning models, Convolutional Neural Networks (CNNs) proved most effective in extracting meaningful text features, achieving a respectable accuracy of 76.16%.  However, Recurrent Neural Networks (LSTMs), combined CNN-BiLSTMs, and Transformer models utilizing word embeddings struggled to effectively classify the text.  Large language models, specifically BERT and RoBERTa, exhibited superior performance compared to traditional deep learning models, with RoBERTa showing a slight edge over BERT and thus presenting a promising option for practical implementation.  Furthermore, the project highlighted the critical importance of text preprocessing techniques, such as tokenization, stop word removal, and lemmatization, in enhancing the precision of product classification.
 
 **Learn more about the college:** [Pillai College of Engineering](https://www.pce.ac.in/)
