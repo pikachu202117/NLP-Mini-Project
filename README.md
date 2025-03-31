@@ -3,7 +3,7 @@
 ## Course: NLP (Semester 6) - Pillai College of Engineering
 
 ### Project Overview
-
+Ecommerce Product Classification project employs a three-tiered approach to product classification: one component fine-tunes large language models (BERT and RoBERTa) using transfer learning, another integrates deep learning techniques by combining traditional vectorization methods (BoW, TF-IDF) with neural embeddings (FastText, Word2Vec, BERT), and the final component leverages classical machine learning models on manually engineered NLP features alongside vectorized text.
 
 
 ## Acknowledgements
