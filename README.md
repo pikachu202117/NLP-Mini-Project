@@ -53,4 +53,21 @@ The comparative analysis of different models highlights their effectiveness in c
 <img src="image.png" align="center">
 
 
+| Model Name                 | Precision | Recall | F1 Score | Accuracy |
+|----------------------------|-----------|--------|----------|----------|
+| Logistic Regression        | 1         | 1      | 1        | 1        |
+| SVM                        | 1         | 1      | 1        | 1        |
+| Decision Tree              | 1         | 1      | 1        | 1        |
+| KNN                        | 1         | 1      | 1        | 1        |
+| Random Forest              | 1         | 1      | 1        | 1        |
+| CNN                        | 0.75      | 0.76   | 0.75     | 0.76     |
+| LSTM                       | 0.04      | 0.21   | 0.07     | 0.21     |
+| CNN-BiLSTM                 | 0.04      | 0.21   | 0.07     | 0.21     |
+| Transformer(word2Vec)      | 0.03      | 0.16   | 0.04     | 0.16     |
+| BERT                       | 0.61      | 0.48   | 0.51     | 0.84     |
+| Fully Connected(BERT)      | 0.1       | 0.18   | 0.1      | 0.18     |
+| RoBERTa                    | 0.62      | 0.52   | 0.55     | 0.85     |
+
+
+
 **Learn more about the college:** [Pillai College of Engineering](https://www.pce.ac.in/)
