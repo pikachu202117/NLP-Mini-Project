@@ -9,13 +9,13 @@ Loan approval prediction is a crucial aspect of financial decision-making for ba
 We would like to express our sincere gratitude to the following individuals:
 
 **Theory Faculty:**  
-- Dhiraj Amin  
-- Sharvari Govilkar  
+- Prof. Dhiraj Amin  
+- Dr. Sharvari Govilkar  
 
 **Lab Faculty:**  
-- Dhiraj Amin  
-- Neha Ashok  
-- Shubhangi Chavan  
+- Prof. Dhiraj Amin  
+- Prof. Neha Ashok  
+- Prof. Shubhangi Chavan  
 
 Their guidance and support have been invaluable throughout this project.
 
